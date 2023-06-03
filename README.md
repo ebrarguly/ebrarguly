@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ebrar Gül</h1>
+
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **R,SQL**
