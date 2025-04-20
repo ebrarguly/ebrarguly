@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Ebrar+G%C3%BCl+Yaz%C4%B1c%C4%B1.;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
+
 
 
 ## 🌐 Socials:
@@ -19,8 +19,9 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 # 📊 GitHub Stats:
-              ![](https://github-readme-stats.vercel.app/api?username=ebrarguly&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-              ![](https://nirzak-streak-stats.vercel.app/?user=ebrarguly&theme=cobalt&hide_border=false)<br/>
-              ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarguly&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ebrarguly&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ebrarguly&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarguly&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+</p>
