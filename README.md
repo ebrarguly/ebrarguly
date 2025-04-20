@@ -19,8 +19,8 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ebrarguly&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ebrarguly&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarguly&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+              ![](https://github-readme-stats.vercel.app/api?username=ebrarguly&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+              ![](https://nirzak-streak-stats.vercel.app/?user=ebrarguly&theme=cobalt&hide_border=false)<br/>
+              ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarguly&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
