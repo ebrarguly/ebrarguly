@@ -9,6 +9,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpmZG5weG81dTdtZW5rcXZva2IzbnozOGMyNDZ2Y2E2ZngxaGR4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif" alt="Coding Animation" width="300"/>
 </p>
 
+<div align="center">
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
@@ -22,11 +23,12 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-<div align="center">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ebrarguly&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ebrarguly&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarguly&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
