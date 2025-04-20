@@ -2,16 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Ebrar+G%C3%BCl+Yaz%C4%B1c%C4%B1.;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-<!-- ✨ İnce çizgi (üst yazı ile gif arasında) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-?color=444&labelColor=444&style=for-the-badge&label=" width="80%">
-</p>
-
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpmZG5weG81dTdtZW5rcXZva2IzbnozOGMyNDZ2Y2E2ZngxaGR4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif" alt="Coding Animation" width="300"/>
 </p>
 
----
+<!-- ✨ İnce çizgi buraya -->
+<div style="height:1px;background-color:#444;margin:20px auto;width:80%;"></div>
+
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
@@ -31,5 +28,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=ebrarguly&theme=cobalt&hide_border=false" alt="GitHub Streak"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrarguly&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
