@@ -1,6 +1,11 @@
-# <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Ebrar+G%C3%BCl+Yaz%C4%B1c%C4%B1.;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
+
+
+
+# <p align="center">
+
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpmZG5weG81dTdtZW5rcXZva2IzbnozOGMyNDZ2Y2E2ZngxaGR4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif" alt="Coding Animation" width="300"/>
