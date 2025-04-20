@@ -6,6 +6,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpmZG5weG81dTdtZW5rcXZva2IzbnozOGMyNDZ2Y2E2ZngxaGR4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif" alt="Coding Animation" width="300"/>
 </p>
 
+<!-- ✨ İnce çizgi buraya -->
+<div style="height:1px;background-color:#444;margin:20px auto;width:80%;"></div>
 
 
 # 💻 Tech Stack:
