@@ -1,6 +1,6 @@
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Ebrar+G%C3%BCl+Yaz%C4%B1c%C4%B1.;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Ebrar+G%C3%BCl+Yaz%C4%B1c%C4%B1.; Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 ## 🌐 Socials:
